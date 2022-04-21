@@ -1,5 +1,2 @@
-# Meh
-KoT
-
-Why cats? 
-honestly? I don't know. Personally I'm a dog person , but hey...cats i guess
+# HTML
+This is an old html project that i created during a web-development course.
